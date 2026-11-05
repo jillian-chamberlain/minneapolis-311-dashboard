@@ -9,7 +9,7 @@ A two-page Power BI dashboard that looks at how the City of Minneapolis handles 
 
 | Overview | Service Performance |
 |---|---|
-| ![Overview page](images/311_Dash_1.png) | ![Service Performance page](images/311_Dash_2.png) |
+| ![Overview page](images/311_Dash_1.PNG) | ![Service Performance page](images/311_Dash_2.PNG) |
 
 ## What the dashboard answers
 

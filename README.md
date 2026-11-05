@@ -29,7 +29,7 @@ A two-page Power BI dashboard that looks at how the City of Minneapolis handles 
 - **81,289 requests** were logged between January 1 and October 12, 2026. **98.5%** are closed, and the **median time to close is 0.93 days**.
 - Monthly volume peaks in July (about 10,000 requests) and is lowest in February (about 7,200).
 - **Streets has the largest backlog:** 457 of the 1,237 open requests (about 37%), even though its median close time is only 1.7 days.
-- **Public Safety is the weakest of the large categories:** 67% of its closed requests were closed within 7 days, compared with 79% to 95% for most other large subjects.
+- **Public Safety has the lowest share closed within a week among the large categories:** 67% of its closed requests were closed within 7 days, compared with 79% to 100% for the other large subjects. Its median time to close (1.0 days) is not unusually slow, so the gap comes from a longer tail of cases that run past a week.
 - **Vehicles and Commuting is the largest subject** (about 21,000 requests) and closes fast, with a median of 0.2 days.
 - The slowest request types with 50 or more requests are mostly permit, inspection, and ADA-style workflows. These take weeks by design, so they should not be compared directly with something like a pothole report.
 
